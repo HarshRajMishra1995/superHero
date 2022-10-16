@@ -1,0 +1,20 @@
+{
+  "name": "superhero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshRajMishra1995/superHero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshRajMishra1995/superHero/issues"
+  },
+  "homepage": "https://github.com/HarshRajMishra1995/superHero#readme"
+}
